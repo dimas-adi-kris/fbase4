@@ -1,0 +1,19 @@
+{
+  "name": "fbase4",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "firebase": "^8.8.1",
+    "firebase-tools": "^9.16.0",
+    "firebaseui": "^4.8.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
+  }
+}
